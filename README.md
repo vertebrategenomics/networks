@@ -7,8 +7,8 @@ This project analyzes network data using various graph theory techniques, includ
 ## Key Features:
 - Community detection using the Louvain algorithm
 - Graph visualization with **Matplotlib** and **NetworkX**
-- Data preprocessing and analysis
-
+- To explore the code for this project, visit the main script [here](disease-gene-network.py)
+  
 ## Citations:
 Bauer-Mehren, A., Bundschus, M., Rautschka, M., Mayer, M. A., Sanz, F., & Furlong, L. I. (2011). Gene-disease network analysis reveals functional modules in mendelian, complex and environmental diseases. PloS one, 6(6), e20284.
 
