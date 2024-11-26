@@ -6,7 +6,7 @@ Studying disease gene networks is crucial for understanding the shared genetic a
 
 ## Key Features:
 - Community detection using the Louvain algorithm
-- Graph visualization with **Matplotlib** and **NetworkX**
+- Graph visualization with Matplotlib and NetworkX
 - To explore the code for this project, visit the main script [here](disease-gene-network.py)
   
 ## Citations:
