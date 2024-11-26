@@ -9,4 +9,8 @@ This project analyzes network data using various graph theory techniques, includ
 - Graph visualization with **Matplotlib** and **NetworkX**
 - Data preprocessing and analysis
 
+## Citations:
+Bauer-Mehren, A., Bundschus, M., Rautschka, M., Mayer, M. A., Sanz, F., & Furlong, L. I. (2011). Gene-disease network analysis reveals functional modules in mendelian, complex and environmental diseases. PloS one, 6(6), e20284.
+
+Zitnik, M., Sosič, R., Maheshwari, S., & Leskovec, J. (2018, August). BioSNAP datasets: Stanford biomedical network dataset collection. Stanford University. Retrieved from http://snap.stanford.edu/biodata
 
